@@ -30,7 +30,7 @@ Final Recommendation
 
 - Python
 - Streamlit
-- Google Gemini API
+- Groq
 - PubMed API
 - XML Parsing
 
@@ -38,7 +38,7 @@ Final Recommendation
 
 Install dependencies:
 
-pip install streamlit google-generativeai requests
+pip install groq
 
 Run the application:
 
@@ -61,7 +61,7 @@ Parkinson's Disease - LRRK2
 
 ## Key Learnings
 
-- Gemini API integration
+- API integration
 - PubMed literature mining
 - Streamlit deployment
 - Multi-agent workflow design
